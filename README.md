@@ -65,8 +65,8 @@ wsstream/
 Edit the `.env` file with your settings:
 
 - `GROQ_API_KEY`: Your Groq API key (free tier available)
-- `SUPABASE_URL`: Your Supabase project URL (optional)
-- `SUPABASE_KEY`: Your Supabase anon/public key (optional)
+- `SUPABASE_URL`: Your Supabase project URL
+- `SUPABASE_KEY`: Your Supabase anon/public key
 - `MODEL_NAME`: LLM model to use (default: llama-3.1-8b-instant)
 - `HOST` and `PORT`: Server configuration
 
